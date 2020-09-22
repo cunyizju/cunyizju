@@ -1,4 +1,6 @@
+# Bruce's repositories at GitHub
 ### Hi there 👋
+Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io/cunyizju):
 
 <!--
 **cunyizju/cunyizju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

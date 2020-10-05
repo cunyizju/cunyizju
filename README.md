@@ -1,7 +1,10 @@
 # Bruce's repositories at GitHub
 ### Hi there 👋
-Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io/cunyizju):
-
+- 🔭 I’m currently working on elastoplastic fracture behaviour
+- 🌱 I’m currently learning debuging elastoplastic models and data-driven approaches
+- 👯 I’m looking to collaborate on computational mechanics
+- ⚡ Hobbies: Swimming, photography, table tennis, music
+![Lotus](./Photos/lotus.JPG)
 <!--
 **cunyizju/cunyizju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

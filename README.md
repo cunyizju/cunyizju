@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning debuging elastoplastic models and data-driven approaches
 - 👯 I’m looking to collaborate on computational mechanics
 - ⚡ Hobbies: Swimming, photography, table tennis, music
-![Lotus](./Photos/classical-Chinese-garden.JPG)
+![Lotus](./Photos/WestLake.png)
 <!--
 **cunyizju/cunyizju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

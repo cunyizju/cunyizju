@@ -1,10 +1,10 @@
 # Bruce's repositories at GitHub
 ### Hi there 👋
-- 🔭 I’m currently working on elastoplastic fracture behaviour
-- 🌱 I’m currently learning debuging elastoplastic models and data-driven approaches
-- 👯 I’m looking to collaborate on computational mechanics
-- ⚡ Hobbies: Swimming, photography, table tennis, music
-![Lotus](./Photos/WestLake.png)
+- 🌱 Languages: Fortran, Python, MATLAB, Mathematica, C/C++, JavaScript
+- :city_sunrise: Cities: Changsha, Hangzhou, Shanghai, Hong Kong, Guangzhou, Shenzhen, Foshan, Ningbo, Xuzhou, Xi'an, Tianjin, Beijing, etc.
+- ⚡ Hobbies: Swimming, photography, Chinese calligraphy, table tennis, music, etc.
+- 👯 I’m looking to collaborate on fracture mechanics
+![West Lake](./Photos/WestLake.png)
 <!--
 **cunyizju/cunyizju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

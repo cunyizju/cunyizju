@@ -1,5 +1,5 @@
 # Bruce's repositories at GitHub
-### Hi there 👋
+## Welcome 👋👋👋
 
 ![West Lake](./Photos/Manly.JPG)
 <!--
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on computational mechanics and additive manufacturing
-- 🌱 I’m currently learning data-driven approaches for CM
-- ⚡ Hobbies: Swimming, table tennis, photography, hiking, Chinese calligraphy
+- 📫 Currently project: computational mechanics (CM) and additive manufacturing.
+- 🌱 Learning skills: data-driven approaches for CM.
+- ⚡ Hobbies: swimming, table tennis, photography, hiking, and Chinese calligraphy.

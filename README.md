@@ -6,10 +6,9 @@
 
 ---
 ### 🧠 Computational Mechanics
-- Development of constitutive models for metallic, quasi-brittle, and soft materials
-- Phase-field fracture modeling for ductile materials under quasi-static and dynamic loading
-- Finite Element Method (FEM) implementation using C++/Fortran, both implicit and explicit solvers
-- Multiscale modeling and mechanism analysis of metamaterials
+- Constitutive models for metallic, quasi-brittle, and soft materials
+- Phase-field fracture model using both implicit and explicit solver
+- Finite Element Method (FEM) implementation using C++/Fortran
 
 ### 🧱 Additive Manufacturing
 - Material calibration, simulation, and validation
@@ -29,7 +28,3 @@
 - 📝 *Journal of the Mechanics and Physics of Solids*  
 - 📝 *Additive Manufacturing*  
 - 📝 *International Journal of Mechanical Sciences*
-
-
----
-
